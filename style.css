@@ -44,10 +44,11 @@ a {
 .nav {
     display: flex;
     margin-top: 1rem;
+    align-items: center;
 }
 
 .nav__logo {
-    height: 64px;
+    height: 52px;
 }
 
 .nav__links {
@@ -185,7 +186,7 @@ a {
 }
 
 .footer__logo {
-    height: 78px;
+    height: 58px;
 }
 
 .footer__info {
